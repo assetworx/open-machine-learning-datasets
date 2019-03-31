@@ -2,7 +2,10 @@
 This repository contains open datasets which may prove useful to your machine learning projects. 
 
 ## Datasets by category
-Empty for now. Pushing the framework (i.e., the rest of this README) first.
+| Category | Description | Navigator |
+| -------- | ----------- | --- |
+| Infrastructure | Data about roads, bridges, railways, waterways, airports, and so on. | [Click](https://github.com/christianversloot/open-machine-learning-datasets/blob/master/datasets/INFRASTRUCTURE.md)
+| Self-driving vehicles | Data about autonomous vehicles such as cars, trains, airplanes and ships. |  [Click](https://github.com/christianversloot/open-machine-learning-datasets/blob/master/datasets/SELF-DRIVING_VEHICLES.md)
 
 ## Want to contribute?
 You are welcomed and in fact encouraged to contribute to our repository. In return, you will be eternalized in the list of contributers below. There exist two paths to making a successful contribution:
