@@ -4,6 +4,7 @@ This repository contains open datasets which may prove useful to your machine le
 ## Datasets by category
 | Category | Description | Navigator |
 | -------- | ----------- | --- |
+| Computer vision | Generic computer vision datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/COMPUTER_VISION.md)
 | Infrastructure | Data about roads, bridges, railways, waterways, airports, and so on. | [Click](https://github.com/christianversloot/open-machine-learning-datasets/blob/master/datasets/INFRASTRUCTURE.md)
 | Self-driving vehicles | Data about autonomous vehicles such as cars, trains, airplanes and ships. |  [Click](https://github.com/christianversloot/open-machine-learning-datasets/blob/master/datasets/SELF-DRIVING_VEHICLES.md)
 
