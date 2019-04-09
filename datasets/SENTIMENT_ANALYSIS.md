@@ -9,6 +9,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 | Sentiment140 | Discover the sentiment of a brand, product, or topic on Twitter (for students). | http://help.sentiment140.com/for-students/
 | Stanford Sentiment Treebank | Semantic Compositionality Over a Treebank | https://nlp.stanford.edu/sentiment/treebank.html
 | Twitter US Airline Sentiment | Analyze how travelers in February 2015 expressed their feelings on Twitter | https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+|<img width="33%"/>|<img width="33%"/>|<img width="33%"/>|
 
 ## License information
 Please refer to the [main page](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md) for license information about this repository and how this impacts (rather, does not impact) the individual datasets.
