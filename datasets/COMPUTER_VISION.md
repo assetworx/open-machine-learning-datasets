@@ -2,7 +2,7 @@
 Part of the [Open Machine Learning Datasets project](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md). Do you have a dataset? Feel free to [contribute](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md)!
 
 ## Datasets
-| Name | Description |
+| Name and link | Description |
 | ---- | ----------- |
 | [COCO](http://cocodataset.org) | Common Objects in Context generic labeled images dataset
 | [Google Open Images](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html) | Open source labeled image datasets

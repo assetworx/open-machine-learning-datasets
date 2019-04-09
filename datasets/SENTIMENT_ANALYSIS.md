@@ -2,7 +2,7 @@
 Part of the [Open Machine Learning Datasets project](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md). Do you have a dataset? Feel free to [contribute](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md)!
 
 ## Datasets
-| Name | Description |
+| Name and link | Description |
 | ---- | ----------- |
 | [Large Movie Review Dataset (IMDB)](http://ai.stanford.edu/~amaas/data/sentiment/) | A set of 25,000 highly polar movie reviews for training, and 25,000 for testing
 | [Multi-Domain Sentiment Dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/) | The Multi-Domain Sentiment Dataset contains product reviews taken from Amazon.com from many product types (domains).

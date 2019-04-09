@@ -2,7 +2,7 @@
 Part of the [Open Machine Learning Datasets project](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md). Do you have a dataset? Feel free to [contribute](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md)!
 
 ## Datasets
-| Name | Description |
+| Name and link | Description |
 | ---- | ----------- |
 | [nuScenes](https://www.nuscenes.org) | Large-scale dataset for autonomous driving. |
 

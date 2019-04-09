@@ -2,7 +2,7 @@
 Part of the [Open Machine Learning Datasets project](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md). Do you have a dataset? Feel free to [contribute](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md)!
 
 ## Datasets
-| Name | Description |
+| Name and link | Description |
 | ---- | ----------- |
 | [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html) | 18 years of Amazon reviews, ~35 million reviews up to March 2013.  
 | [Blogger Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm) | The collected posts of 19,320 bloggers gathered from blogger.com in August 2004
