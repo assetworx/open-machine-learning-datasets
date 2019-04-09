@@ -4,8 +4,8 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name | Description | URL |
 | ---- | ----------- | --- |
-| Multi-Domain Sentiment Dataset | http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
-| Large Movie Review Dataset (IMDB) | http://ai.stanford.edu/~amaas/data/sentiment/
+| Multi-Domain Sentiment Dataset | The Multi-Domain Sentiment Dataset contains product reviews taken from Amazon.com from many product types (domains). |  http://www.cs.jhu.edu/~mdredze/datasets/sentiment/
+| Large Movie Review Dataset (IMDB) | A set of 25,000 highly polar movie reviews for training, and 25,000 for testing. | http://ai.stanford.edu/~amaas/data/sentiment/
 | Stanford Sentiment Treebank | Semantic Compositionality Over a Treebank | https://nlp.stanford.edu/sentiment/treebank.html
 | Sentiment140 | Discover the sentiment of a brand, product, or topic on Twitter (for students). | http://help.sentiment140.com/for-students/
 | Twitter US Airline Sentiment | Analyze how travelers in February 2015 expressed their feelings on Twitter | https://www.kaggle.com/crowdflower/twitter-airline-sentiment
