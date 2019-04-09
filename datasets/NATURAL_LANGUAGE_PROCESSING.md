@@ -17,6 +17,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 | UCI's Spam Dataset | Classifying Email as Spam or Non-Spam | https://archive.ics.uci.edu/ml/datasets/Spambase
 | Wikipedia Links | Wikipedia fulltext | https://code.google.com/archive/p/wiki-links/downloads
 | Yelp Reviews | Subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes | https://www.yelp.com/dataset
+|<img width="33%"/>|<img width="33%"/>|<img width="33%"/>|
 
 ## License information
 Please refer to the [main page](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md) for license information about this repository and how this impacts (rather, does not impact) the individual datasets.
