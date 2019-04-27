@@ -5,6 +5,7 @@ This repository contains open datasets which may prove useful to your machine le
 | Category | Description | Navigator |
 | -------- | ----------- | --- |
 | Computer vision | Generic computer vision datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/COMPUTER_VISION.md)
+| Healthcare | Data sets related to healthcare, medication/drugs, et cetera. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/HEALTHCARE.md)
 | Human beings | Data sets related to human beings. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/HUMAN_BEINGS.md)
 | Infrastructure | Data about roads, bridges, railways, waterways, airports, and so on. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/INFRASTRUCTURE.md)
 | Language | Generic language processing datasets, e.g. for Natural Language Processing (NLP). | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/LANGUAGE.md)
