@@ -7,6 +7,7 @@ This repository contains open datasets which may prove useful to your machine le
 | Computer vision | Generic computer vision datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/COMPUTER_VISION.md)
 | Infrastructure | Data about roads, bridges, railways, waterways, airports, and so on. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/INFRASTRUCTURE.md)
 | Natural language processing | Generic language processing datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/NATURAL_LANGUAGE_PROCESSING.md)
+| Nature | Datasets related to nature and nature phenomena | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/NATURE.md)
 | Self-driving vehicles | Data about autonomous vehicles such as cars, trains, airplanes and ships. |  [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/SELF-DRIVING_VEHICLES.md)
 | Sentiment analysis | Generic sentiment analysis datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/SENTIMENT_ANALYSIS.md)
 
