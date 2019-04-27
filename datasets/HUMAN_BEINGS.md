@@ -11,6 +11,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 | [Drug Review Dataset (Druglib.com)](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29) | The dataset provides patient reviews on specific drugs along with related conditions. Reviews and ratings are grouped into reports on the three aspects benefits, side effects and overall comment. |
 | [EMG data for gestures Data Set](https://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures) | Electromyogram data for gestures
 | [Parkinson's Disease Classification Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification) | The data used in this study were gathered from 188 patients with PD (107 men and 81 women) with ages ranging from 33 to 87 (65.1Â±10.9). |
+| [Student Academics Performance Data Set](https://archive.ics.uci.edu/ml/datasets/Student+Academics+Performance) | The dataset tried to find the end semester percentage prediction based on different social, economic and academic attributes. |
 
 ## License information
 Please refer to the [main page](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md) for license information about this repository and how this impacts (rather, does not impact) the individual datasets.
