@@ -4,6 +4,8 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name and link | Description |
 | ---- | ----------- |
+| [BAUM-1 Data Set](https://archive.ics.uci.edu/ml/datasets/BAUM-1) | BAUM-1 dataset contains 1184 multimodal facial video clips collected from 31 subjects. The 1184 video clips contain spontaneous facial expressions and speech of 13 emotional and mental states. |
+| [BAUM-2 Data Set](https://archive.ics.uci.edu/ml/datasets/BAUM-2) | A multilingual audio-visual affective face database consisting of 1047 video clips of 286 subjects. |
 | [EMG data for gestures Data Set](https://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures) | Electromyogram data for gestures
 
 ## License information
