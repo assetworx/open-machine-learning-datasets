@@ -4,6 +4,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name and link | Description |
 | ---- | ----------- |
+| [Superconductivty Data Set](https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data) | Two files contain data on 21263 superconductors and their relevant features. |
 
 ## License information
 Please refer to the [main page](https://github.com/meetaime/open-machine-learning-datasets/blob/master/README.md) for license information about this repository and how this impacts (rather, does not impact) the individual datasets.
