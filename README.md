@@ -1,5 +1,5 @@
 # Open Machine Learning Datasets
-This repository contains open datasets which may prove useful to your machine learning projects. 
+This repository serves as an index for open datasets which may prove useful to your machine learning projects. 
 
 ## Datasets by category
 | Category | Description | Navigator |
