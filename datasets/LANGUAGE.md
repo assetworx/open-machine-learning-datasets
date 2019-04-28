@@ -12,6 +12,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 | [HotpotQA Dataset](https://hotpotqa.github.io/) | A Dataset for Diverse, Explainable Multi-hop Question Answering
 | [Jeopardy Data](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/) | 216,930 Jeopardy questions, answers and other data.
 | [Project Gutenberg eBooks](http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs) | The basic information about each eBook in the Project Gutenberg collection
+| [Roman Urdu Data Set](https://archive.ics.uci.edu/ml/datasets/Roman+Urdu+Data+Set) | Roman Urdu (the scripting style for Urdu language) is one of the limited resource languages.A data corpus comprising of more than 20000 records was collected. |
 | [Rotten Tomatoes Reviews](https://drive.google.com/file/d/1w1TsJB-gmIkZ28d1j7sf1sqcPmHXw352/view) | More than 400k Rotten Tomatoes reviews
 | [SMS Spam Collection](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) | 5,574 English, real and non-enconded messages, tagged according being legitimate (ham) or spam.
 | [UCI's Spam Dataset](https://archive.ics.uci.edu/ml/datasets/Spambase) | Classifying Email as Spam or Non-Spam
