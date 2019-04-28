@@ -4,6 +4,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name and link | Description |
 | ---- | ----------- |
+| [Brain Computer Interface EEG Data Set](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals) | This database consists on 30 subjects performing Brain Computer Interface for Steady State Visual Evoked Potentials |
 | [Drug Review Dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29) | The dataset provides patient reviews on specific drugs along with related conditions and a 10 star patient rating reflecting overall patient satisfaction. |
 | [Drug Review Dataset (Druglib.com)](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29) | The dataset provides patient reviews on specific drugs along with related conditions. Reviews and ratings are grouped into reports on the three aspects benefits, side effects and overall comment. |
 | [Natural Speech Early Parkinson Biomarker Data Set](https://archive.ics.uci.edu/ml/datasets/Early+biomarkers+of+Parkinson%E2%80%99s+disease+based+on+natural+connected+speech) | Predict a pattern of neurodegeneration in the dataset of speech features obtained from patients with early untreated Parkinson's disease and patients at high risk developing Parkinson's disease. |
