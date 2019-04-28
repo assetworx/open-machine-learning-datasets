@@ -12,6 +12,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 | [EMG data for gestures Data Set](https://archive.ics.uci.edu/ml/datasets/EMG+data+for+gestures) | Electromyogram data for gestures
 | [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset) | Of the 12,330 sessions in the dataset, 84.5% (10,422) were negative class samples that did not end with shopping, and the rest (1908) were positive class samples ending with shopping. |
 | [Parkinson's Disease Classification Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification) | The data used in this study were gathered from 188 patients with PD (107 men and 81 women) with ages ranging from 33 to 87 (65.1Â±10.9). |
+| [PMU-UD Handwritten Digit Data Set](https://archive.ics.uci.edu/ml/datasets/PMU-UD) | The handwritten dataset (Urdu/Arabic) was collected from 170 participants with a total of 5,180 numeral patterns. |
 | [Student Academics Performance Data Set](https://archive.ics.uci.edu/ml/datasets/Student+Academics+Performance) | The dataset tried to find the end semester percentage prediction based on different social, economic and academic attributes. |
 | [Wearable Stress and Affect Detection](https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29) | WESAD (Wearable Stress and Affect Detection) contains data of 15 subjects during a stress-affect lab study, while wearing physiological and motion sensors. |
 

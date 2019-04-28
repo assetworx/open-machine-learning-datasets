@@ -11,6 +11,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 | [LSUN](https://www.yf.io/p/lsun) | Image database with labeling by humans
 | [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) | 13k+ images of faces collected from the web
 | [Labelme](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php) | Generic labeled computer vision dataset
+| [PMU-UD Handwritten Digit Data Set](https://archive.ics.uci.edu/ml/datasets/PMU-UD) | The handwritten dataset (Urdu/Arabic) was collected from 170 participants with a total of 5,180 numeral patterns. |
 | [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) | Images of 120 breeds of dogs from around the world
 | [Visual Genome](http://visualgenome.org/) | Image database connecting structured image concepts to language labels
 
