@@ -4,6 +4,7 @@ This repository contains open datasets which may prove useful to your machine le
 ## Datasets by category
 | Category | Description | Navigator |
 | -------- | ----------- | --- |
+| Commerce | Datasets on commerce, both physical and eCommerce. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/COMMERCE.md)
 | Computer vision | Generic computer vision datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/COMPUTER_VISION.md)
 | Education | Data sets related to education, schools, universities, colleges, etc. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/EDUCATION.md)
 | Healthcare | Data sets related to healthcare, medication/drugs, et cetera. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/HEALTHCARE.md)
