@@ -39,6 +39,7 @@ You may also choose to make a pull request directly. Pick one of the repository'
 ## Contributors
 * Christian Versloot, https://github.com/christianversloot
 * Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+* Stacy Stanford, https://towardsdatascience.com/the-50-best-public-datasets-for-machine-learning-d80e9f030279
 
 ## License
 This repository has been distributed under a CC BY-NC-SA 3.0 license, which means that you may share and edit it, even within a different project. However, you must credit us as follows: Aime, the Netherlands / www.meetaime.com and comply with the CC BY-NC-SA 3.0 license instructions found at https://creativecommons.org/licenses/by-nc-sa/3.0. 
