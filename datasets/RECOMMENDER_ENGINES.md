@@ -4,6 +4,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name and link | Description |
 | ---- | ----------- |
+| [BuddyMove Data Set](https://archive.ics.uci.edu/ml/datasets/BuddyMove+Data+Set) | User interest information extracted from user reviews published in holidayiq.com about various types of point of interests in South India |
 | [Drug Review Dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29) | The dataset provides patient reviews on specific drugs along with related conditions and a 10 star patient rating reflecting overall patient satisfaction. |
 | [Drug Review Dataset (Druglib.com)](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29) | The dataset provides patient reviews on specific drugs along with related conditions. Reviews and ratings are grouped into reports on the three aspects benefits, side effects and overall comment. |
 | [Large Movie Review Dataset (IMDB)](http://ai.stanford.edu/~amaas/data/sentiment/) | A set of 25,000 highly polar movie reviews for training, and 25,000 for testing
