@@ -4,6 +4,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name and link | Description |
 | ---- | ----------- |
+| [Absenteeism at work Data Set](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work) | The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil. |
 | [BAUM-1 Data Set](https://archive.ics.uci.edu/ml/datasets/BAUM-1) | BAUM-1 dataset contains 1184 multimodal facial video clips collected from 31 subjects. The 1184 video clips contain spontaneous facial expressions and speech of 13 emotional and mental states. |
 | [BAUM-2 Data Set](https://archive.ics.uci.edu/ml/datasets/BAUM-2) | A multilingual audio-visual affective face database consisting of 1047 video clips of 286 subjects. |
 | [Brain Computer Interface EEG Data Set](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals) | This database consists on 30 subjects performing Brain Computer Interface for Steady State Visual Evoked Potentials |
