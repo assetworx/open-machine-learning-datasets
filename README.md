@@ -18,6 +18,7 @@ This repository serves as an index for open datasets which may prove useful to y
 | Self-driving vehicles | Data about autonomous vehicles such as cars, trains, airplanes and ships. |  [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/SELF-DRIVING_VEHICLES.md)
 | Sentiment | Generic sentiment analysis datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/SENTIMENT_ANALYSIS.md)
 | Traffic | Traffic related datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/TRAFFIC.md)
+| Technology | Technology related datasets of all forms of technologies. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/TECHNOLOGY.md)
 | Travel | Travel related datasets. | [Click](https://github.com/meetaime/open-machine-learning-datasets/blob/master/datasets/TRAVEL.md)
 
 ## Want to contribute?
