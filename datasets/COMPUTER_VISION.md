@@ -4,6 +4,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name and link | Description |
 | ---- | ----------- |
+| [Avila](https://archive.ics.uci.edu/ml/datasets/Avila) | The Avila data set has been extracted from 800 images of the 'Avila Bible', an XII century giant Latin copy of the Bible. The prediction task consists in associating each pattern to a copyist. |
 | [COCO](http://cocodataset.org) | Common Objects in Context generic labeled images dataset
 | [Google Open Images](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html) | Open source labeled image datasets
 | [ImageNet](http://image-net.org/) | Image database organized according to the WordNet hierarchy
