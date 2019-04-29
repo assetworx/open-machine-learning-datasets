@@ -4,6 +4,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 ## Datasets
 | Name and link | Description |
 | ---- | ----------- |
+| [Multimodal Damage Identification for Humanitarian Computing](https://archive.ics.uci.edu/ml/datasets/Multimodal+Damage+Identification+for+Humanitarian+Computing) | 5879 captioned images (image and text) from social media related to damage during natural disasters/wars, and belong to 6 classes: Fires, Floods, Natural landscape, Infrastructural, Human, Non-damage. |
 | [Rice Leaf Diseases Data Set](https://archive.ics.uci.edu/ml/datasets/Rice+Leaf+Diseases) | Bacterial leaf blight, Brown spot, and Leaf smut, each having 40 images in jpg
 
 ## License information
