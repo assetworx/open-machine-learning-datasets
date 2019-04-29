@@ -18,6 +18,7 @@ Part of the [Open Machine Learning Datasets project](https://github.com/meetaime
 | [PMU-UD Handwritten Digit Data Set](https://archive.ics.uci.edu/ml/datasets/PMU-UD) | The handwritten dataset (Urdu/Arabic) was collected from 170 participants with a total of 5,180 numeral patterns. |
 | [Simulated Falls and Daily Living Activities](https://archive.ics.uci.edu/ml/datasets/Simulated+Falls+and+Daily+Living+Activities+Data+Set) | 20 falls and 16 daily living activities were performed by 17 volunteers with 5 repetitions while wearing 6 sensors (3.060 instances) that attached to their head, chest, waist, wrist, thigh and ankle. |
 | [Student Academics Performance Data Set](https://archive.ics.uci.edu/ml/datasets/Student+Academics+Performance) | The dataset tried to find the end semester percentage prediction based on different social, economic and academic attributes. |
+| [Victorian Era Authorship Attribution Data Set](https://archive.ics.uci.edu/ml/datasets/Victorian+Era+Authorship+Attribution) | To create the largest authorship attribution dataset, we extracted works of 50 well-known authors. |
 | [Wearable Stress and Affect Detection](https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29) | WESAD (Wearable Stress and Affect Detection) contains data of 15 subjects during a stress-affect lab study, while wearing physiological and motion sensors. |
 
 ## License information
