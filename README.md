@@ -44,9 +44,6 @@ You may also choose to make a pull request directly. Pick one of the repository'
 * Versloot, Christian; https://github.com/christianversloot
 
 ## License
-This repository has been distributed under a CC BY-NC-SA 3.0 license, which means that you may share and edit it, even within a different project. However, you must credit us as follows: Aime, the Netherlands / www.meetaime.com and comply with the CC BY-NC-SA 3.0 license instructions found at https://creativecommons.org/licenses/by-nc-sa/3.0. We are rather lenient with respect to prohibiting _commercial use_. Lightweight use cases that we do not wish to prohibit are, for example:
-
-* Composing an overview of some relevant data sets which are useful for your commercial data science project, based on the sets you find here;
-* Using one of the data sets you find here for your commercial data science project, if this is allowed by the license of the data set itself.
+We dedicate this work to the public domain through a [CC0 1.0 Universal Public Domain Dedication](https://github.com/meetaime/open-machine-learning-datasets/blob/master/LICENSE.md), which means that you may share and edit it, even within a different project. More information here: https://creativecommons.org/publicdomain/zero/1.0. If you do regardless wish to credit us for our work, you could e.g. write `Aime, the Netherlands / www.meetaime.com`.
 
 Please note that this license applies to our _collection_ of datasets rather than the datasets themselves, which may be licensed differently by their respective owners. Please ensure to comply with the licenses of individual datasets prior to using them.
