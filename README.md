@@ -44,6 +44,6 @@ You may also choose to make a pull request directly. Pick one of the repository'
 * Versloot, Christian; https://github.com/christianversloot
 
 ## License
-We dedicate this work to the public domain through a [CC0 1.0 Universal Public Domain Dedication](https://github.com/gswrx/open-machine-learning-datasets/blob/master/LICENSE.md), which means that you may share and edit it, even within a different project. More information here: https://creativecommons.org/publicdomain/zero/1.0. If you do regardless wish to credit us for our work, you could e.g. write `GSWRX Business Innovators, the Netherlands / www.gswrx.nl & www.degasfabriek.com`.
+We dedicate this work to the public domain through a [CC0 1.0 Universal Public Domain Dedication](./LICENSE), which means that you may share and edit it, even within a different project. More information here: https://creativecommons.org/publicdomain/zero/1.0. If you do regardless wish to credit us for our work, you could e.g. write `GSWRX Business Innovators, the Netherlands / www.gswrx.nl & www.degasfabriek.com`.
 
 Please note that this license applies to our _collection_ of datasets rather than the datasets themselves, which may be licensed differently by their respective owners. Please ensure to comply with the licenses of individual datasets prior to using them.
